@@ -1,6 +1,6 @@
 # Svelte w/ TS + Tailwind + Docker Scaffold
 
-This is a project template for [Svelte](https://svelte.dev) apps that uses an NGINX image based off of alpine. It lives at https://github.com/ianpatrickbuss/svelte-docker-scaffold and is based on the official Svelte template with TypeScript pre-enabled and Tailwind CSS configured.
+This is a project template for [Svelte](https://svelte.dev) apps that uses an NGINX image based off of alpine. It lives at https://github.com/ianpatrickbuss/svelte-with-ts-tailwind-docker and is based on the official Svelte template with TypeScript pre-enabled and Tailwind CSS configured.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
