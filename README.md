@@ -5,7 +5,7 @@ This is a project template for [Svelte](https://svelte.dev) apps that uses an NG
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit ianpatrickbuss/svelte-docker-scaffold#main title-here
+npx degit ianpatrickbuss/svelte-with-ts-tailwind-docker#main title-here
 cd title-here
 ```
 
